@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3793
     wikipedia: http://en.wikipedia.org/wiki/James_Weldon_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35025#Self-Determining-Haitithe-Advancement-of-Colored-People.
 gutenberg_issued: '2011-01-21'
 gutenberg_type: Text
 identifiers:
