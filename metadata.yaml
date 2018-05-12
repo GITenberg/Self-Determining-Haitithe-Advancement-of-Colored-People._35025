@@ -1,0 +1,32 @@
+_repo: Self-Determining-Haitithe-Advancement-of-Colored-People._35025
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, James Weldon
+    alias: Johnson, J. W. (James Weldon)
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '3793'
+    url: http://www.gutenberg.org/2009/agents/3793
+    wikipedia: http://en.wikipedia.org/wiki/James_Weldon_Johnson
+description: ''
+gutenberg_issued: '2011-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haiti -- Foreign relations -- United States'
+- !lcc 'F1900'
+- !lcsh 'Haiti -- Politics and government -- 1844-1934'
+- !lcsh 'United States -- Foreign relations -- Haiti'
+title: "Self-Determining Haiti\r\nFour articles reprinted from The Nation embodying\
+  \ a report of an investigation made for the National Association for the Advancement\
+  \ of Colored People."
+url: http://www.gutenberg.org/ebooks/35025
